@@ -1,4 +1,5 @@
-# Calculator Project
+# Calculator App
+[Preview](https://akshayparihar07.github.io/Calculator/)
 
 This project is a simple calculator implemented using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, along with percentage calculation.
 
